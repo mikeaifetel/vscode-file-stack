@@ -1,3 +1,7 @@
+# Custom
+Development.md
+*.vsix
+
 # Logs
 logs
 *.log
