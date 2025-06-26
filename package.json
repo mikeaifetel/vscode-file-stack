@@ -3,7 +3,7 @@
   "displayName": "File Stack",
   "description": "Group and manage files in stacks for better workspace organization",
   "version": "0.1.0",
-  "publisher": "Mike Aifetel",
+  "publisher": "MikeAifetel",
   "icon": "resources/logo.png",
   "repository": {
     "type": "git",
